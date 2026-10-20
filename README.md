@@ -1,29 +1,28 @@
-# 🌐 Shahriar Hasan — Personal Portfolio
+# 🌐 Kazi Tahmida — Personal Portfolio
 
 Welcome to my personal portfolio website! 👋
 
 This portfolio showcases my **academic background, technical skills, projects, research interests, and contact information** as a Computer Science and Engineering student.
 
-The website is designed to provide a simple and interactive overview of my journey in **Software Development, Artificial Intelligence, Machine Learning, Data Science, and Cyber Security**.
+The website is designed to provide a simple and interactive overview of my journey in **Software Development, Artificial Intelligence, Machine Learning and Data Science**.
 
 ---
 
 
 ## 🌐 Live Portfolio
 
-🔗 **[Visit My Portfolio](https://shahriar398.github.io/Portfolio/)**
+🔗 **[Visit My Portfolio](https://tahmida70.github.io/Portfolio/)**
 
 ---
 ## 👨‍💻 About Me
 
-Hi, I'm **Shahriar Hasan**, a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**.
+Hi, I'm **Kazi Tahmida**, a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**.
 
 I am interested in building practical software solutions and exploring technologies related to:
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 📊 Data Science
-* 🔐 Cyber Security
 * 💻 Software Development
 * 🐍 Python Development
 * ☕ Java Development
@@ -93,82 +92,8 @@ My academic coursework includes programming, algorithms, data structures, databa
 
 ## 🚀 Projects
 
-### 1. Mess Manager 2.0
 
-A web-based **Mess Management System** designed to help manage members, meals, expenses, and other mess-related information.
-
-**Technologies:**
-
-* HTML
-* CSS
-* PHP
-* MySQL
-* JavaScript
-* XAMPP
-
-**Main Features:**
-
-* User registration and login
-* Session-based authentication
-* Dashboard
-* Database integration
-* User management
-* Mess-related data management
-* Bangla/English language support
-
-**Repository:**
-
-`Shahriar398/Mess-Manager-2.0`
-
----
-
-### 2. AIUB Robo Soccer Bot
-
-A robotics project developed for an AIUB Robo Soccer Bot competition.
-
-The robot was designed to detect and follow the ball/track using multiple IR sensors and control its movement using motors.
-
-**Technologies & Components:**
-
-* Arduino Nano
-* IR Sensors
-* L298N Motor Driver
-* DC Motors
-* PID Control
-* Embedded C/C++
-
-**Key Features:**
-
-* Sensor-based movement
-* Motor control
-* Line/position detection
-* PID-based control
-* Autonomous robotic movement
-
----
-
-### 3. Arduino Password/PIN Door System
-
-An Arduino-based security system using a keypad and display interface.
-
-**Components:**
-
-* Arduino Nano
-* 3×4 Keypad
-* OLED Display
-* Ultrasonic Sensor
-
-**Features:**
-
-* PIN/password input
-* OLED display interaction
-* User authentication
-* Distance detection
-* Security-related status messages
-
----
-
-### 4. Java Restaurant Management System
+### 1. Java Restaurant Management System
 
 A desktop-based restaurant management application developed using Java.
 
@@ -187,7 +112,7 @@ A desktop-based restaurant management application developed using Java.
 
 ---
 
-### 5. Brick Breaker Game
+### 2. Brick Breaker Game
 
 A computer graphics project developed using OpenGL/GLUT.
 
@@ -224,13 +149,6 @@ Some areas I am currently interested in include:
 * Uncertainty-aware AI
 * AI-assisted decision systems
 
-### Cyber Security
-
-* Phishing Detection
-* Cyber Threat Detection
-* AI-based Security
-* Anomaly Detection
-* Security Automation
 
 ### Data Science
 
@@ -246,7 +164,6 @@ I am particularly interested in developing AI-based solutions that can address p
 
 * Flood monitoring
 * Healthcare
-* Cyber security
 * Education
 * Smart systems
 * Disaster management
@@ -279,7 +196,6 @@ I am particularly interested in pursuing graduate studies related to:
 * Artificial Intelligence
 * Machine Learning
 * Data Science
-* Cyber Security
 * Software Engineering
 
 I also want to contribute to research and develop practical technology solutions that can have real-world impact.
@@ -307,16 +223,13 @@ The website includes:
 If you would like to contact me regarding collaboration, projects, research, or other opportunities, feel free to reach out.
 
 **Email:**
-`shahriarh398@gmail.com`
+`kazitahmida70@gmail.com.com`
 
 **LinkedIn:**
-Shahriar Hasan
-
-**X (Twitter):**
-@shahriar_398
+Kazi Tahmida
 
 **GitHub:**
-Shahriar398
+Tahmida70
 
 ---
 
@@ -395,16 +308,15 @@ Thank you for visiting my portfolio! 🙌
 
 ## 👨‍💻 Author
 
-**Shahriar Hasan**
+**Kazi Tahmida**
 
 Computer Science & Engineering
 American International University-Bangladesh (AIUB)
 
-**Email:** `shahriarh398@gmail.com`
+**Email:** `kazitahmida70@gmail.com`
 
-**GitHub:** `Shahriar398`
+**GitHub:** `Tahmida70`
 
-**LinkedIn:** `Shahriar Hasan`
+**LinkedIn:** `Kazi Tahmida`
 
-**X:** `@shahriar_398`
 # Portfolio
